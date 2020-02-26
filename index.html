@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Tornadoes Across the US for the past 7 years</title>
+
+		<!--put your external stylesheet links here-->
+        <link rel="stylesheet" href="css/leaflet.css">
+		<link rel="stylesheet" href="css/easy-button.css">
+        <link rel="stylesheet" href="css/L.Control.Sidebar.css">
+        <link rel="stylesheet" href="css/MarkerCluster.css">
+        <link rel="stylesheet" href="css/MarkerCluster.Default.css">
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/jquery-ui.css">
+        <link rel="stylesheet" href="css/leaflet-search.css">
+        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="css/style.css">
+
+
+		<!--[if IE<9]>
+			<link rel="stylesheet" href="css/style.ie.css">
+		<![endif]-->
+
+	</head>
+
+	<body>
+
+    <!-- Trigger/Open The Modal -->
+
+<!-- this keeps displaying behind map -->
+    <!-- The Modal -->
+
+    <div id="mapid"></div>
+    <div id="panel"></div>
+    <script type="text/javascript" src="js/leaflet.js"></script>
+    <script src="js/leaflet.ajax.min.js"></script>
+    <script src="js/leaflet-search.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/jquery-3.4.1.js"></script>
+    <script type="text/javascript" src="js/leaflet.markercluster-src.js"></script>
+    <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
+     <script src="js/L.Control.Sidebar.js"></script>
+    <script src="js/easy-button.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+
+    <!--need to keep, if removed the modal wont work-->
+    <div id="sidebar" class="text-center col-md-10">
+        <!--option to show the same info as modal pop up-->
+        <!-- <p>The <strong>show</strong> method shows the modal and the <strong>hide</strong> method hides the modal.</p>-->
+        <br>
+        <br>
+        <h4>Tornado totals by State <br> 2013-2019</h4>
+        <br>
+        <br>
+
+
+            <!-- This part of Modal shows in legend-->
+            <!-- <h2>Modal Methods</h2>-->
+            <!-- <p>The <strong>show</strong> method shows the modal and the <strong>hide</strong> method hides the modal.</p>-->
+            <!-- Trigger the modal with a button -->
+            <!-- <button type="button" class="btn btn-info btn-md" id="myBtn">Hide Modal</button>-->
+
+            <!-- Modal -->
+        <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">US Tornadoes (2013-2019)</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>This interactive map displays a subset of 22 States and their yearly Tornado count as reported by NOAA <br> 2013 - 2019. <br><br><strong>Note: </strong>States can be searched using the search button. </p>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function(){
+            // Show the Modal on load
+            $("#myModal").modal("show");
+
+            // Hide the Modal
+            $("#myBtn").click(function(){
+                $("#myModal").modal("hide");
+            });
+        });
+    </script>
+    </div>
+		<!--put your external script links here-->
+
+     <script type="text/javascript" src="js/main.js"></script>
+
+
+	</body>
+</html>

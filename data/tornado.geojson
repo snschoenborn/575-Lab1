@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Alabama",
+        "Tornado_2019": 95,
+        "Tornado_2018": 52,
+        "Tornado_2017": 65,
+        "Tornado_2016": 87,
+        "Tornado_2015": 32,
+        "Tornado_2014": 65,
+        "Tornado_2013": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3000793,
+          32.3801498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Arizona",
+        "Tornado_2019": 10,
+        "Tornado_2018": 6,
+        "Tornado_2017": 3,
+        "Tornado_2016": 3,
+        "Tornado_2015": 3,
+        "Tornado_2014": 2,
+        "Tornado_2013": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.075798,
+          33.4482498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Arkansas",
+        "Tornado_2019": 31,
+        "Tornado_2018": 33,
+        "Tornado_2017": 26,
+        "Tornado_2016": 23,
+        "Tornado_2015": 25,
+        "Tornado_2014": 24,
+        "Tornado_2013": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2748489,
+          34.7486992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "California",
+        "Tornado_2019": 16,
+        "Tornado_2018": 6,
+        "Tornado_2017": 2,
+        "Tornado_2016": 7,
+        "Tornado_2015": 13,
+        "Tornado_2014": 11,
+        "Tornado_2013": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4908524,
+          38.5794411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Georgia",
+        "Tornado_2019": 60,
+        "Tornado_2018": 21,
+        "Tornado_2017": 131,
+        "Tornado_2016": 27,
+        "Tornado_2015": 24,
+        "Tornado_2014": 35,
+        "Tornado_2013": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3911133,
+          33.7483101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Indiana",
+        "Tornado_2019": 39,
+        "Tornado_2018": 16,
+        "Tornado_2017": 36,
+        "Tornado_2016": 40,
+        "Tornado_2015": 17,
+        "Tornado_2014": 23,
+        "Tornado_2013": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1499634,
+          39.7669106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Iowa",
+        "Tornado_2019": 53,
+        "Tornado_2018": 84,
+        "Tornado_2017": 57,
+        "Tornado_2016": 46,
+        "Tornado_2015": 46,
+        "Tornado_2014": 63,
+        "Tornado_2013": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.6153793,
+          41.5898094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Kansas",
+        "Tornado_2019": 127,
+        "Tornado_2018": 45,
+        "Tornado_2017": 74,
+        "Tornado_2016": 99,
+        "Tornado_2015": 178,
+        "Tornado_2014": 48,
+        "Tornado_2013": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6711807,
+          39.0492783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Louisiana",
+        "Tornado_2019": 97,
+        "Tornado_2018": 86,
+        "Tornado_2017": 88,
+        "Tornado_2016": 31,
+        "Tornado_2015": 34,
+        "Tornado_2014": 16,
+        "Tornado_2013": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.093399,
+          30.4494934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Missouri",
+        "Tornado_2019": 98,
+        "Tornado_2018": 48,
+        "Tornado_2017": 102,
+        "Tornado_2016": 23,
+        "Tornado_2015": 48,
+        "Tornado_2014": 56,
+        "Tornado_2013": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1778412,
+          38.5775108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Montana",
+        "Tornado_2019": 6,
+        "Tornado_2018": 10,
+        "Tornado_2017": 2,
+        "Tornado_2016": 4,
+        "Tornado_2015": 1,
+        "Tornado_2014": 8,
+        "Tornado_2013": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0206528,
+          46.5897598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "New Mexico",
+        "Tornado_2019": 21,
+        "Tornado_2018": 10,
+        "Tornado_2017": 11,
+        "Tornado_2016": 3,
+        "Tornado_2015": 4,
+        "Tornado_2014": 17,
+        "Tornado_2013": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9379578,
+          35.6916809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Ohio",
+        "Tornado_2019": 59,
+        "Tornado_2018": 17,
+        "Tornado_2017": 43,
+        "Tornado_2016": 31,
+        "Tornado_2015": 6,
+        "Tornado_2014": 21,
+        "Tornado_2013": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0027466,
+          39.9619904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Oklahoma",
+        "Tornado_2019": 99,
+        "Tornado_2018": 24,
+        "Tornado_2017": 62,
+        "Tornado_2016": 55,
+        "Tornado_2015": 111,
+        "Tornado_2014": 13,
+        "Tornado_2013": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5164,
+          35.4679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "South Dakota",
+        "Tornado_2019": 23,
+        "Tornado_2018": 19,
+        "Tornado_2017": 21,
+        "Tornado_2016": 16,
+        "Tornado_2015": 26,
+        "Tornado_2014": 37,
+        "Tornado_2013": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.3499985,
+          44.3690491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Tennessee",
+        "Tornado_2019": 16,
+        "Tornado_2018": 20,
+        "Tornado_2017": 35,
+        "Tornado_2016": 11,
+        "Tornado_2015": 18,
+        "Tornado_2014": 23,
+        "Tornado_2013": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7781601,
+          36.1678391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Texas",
+        "Tornado_2019": 188,
+        "Tornado_2018": 52,
+        "Tornado_2017": 176,
+        "Tornado_2016": 90,
+        "Tornado_2015": 228,
+        "Tornado_2014": 63,
+        "Tornado_2013": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7429886,
+          30.2675896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Virginia",
+        "Tornado_2019": 24,
+        "Tornado_2018": 34,
+        "Tornado_2017": 23,
+        "Tornado_2016": 12,
+        "Tornado_2015": 7,
+        "Tornado_2014": 12,
+        "Tornado_2013": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4336472,
+          37.540699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Wisconsin",
+        "Tornado_2019": 32,
+        "Tornado_2018": 35,
+        "Tornado_2017": 28,
+        "Tornado_2016": 11,
+        "Tornado_2015": 20,
+        "Tornado_2014": 20,
+        "Tornado_2013": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3864365,
+          43.0731316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Wyoming",
+        "Tornado_2019": 30,
+        "Tornado_2018": 31,
+        "Tornado_2017": 15,
+        "Tornado_2016": 1,
+        "Tornado_2015": 15,
+        "Tornado_2014": 16,
+        "Tornado_2013": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.2903,
+          43.0760
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "New York",
+        "Tornado_2019": 4,
+        "Tornado_2018": 11,
+        "Tornado_2017": 12,
+        "Tornado_2016": 1,
+        "Tornado_2015": 3,
+        "Tornado_2014": 10,
+        "Tornado_2013": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7552109,
+          42.6515503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "State": "Washington",
+        "Tornado_2019": 2,
+        "Tornado_2018": 2,
+        "Tornado_2017": 3,
+        "Tornado_2016": 6,
+        "Tornado_2015": 4,
+        "Tornado_2014": 4,
+        "Tornado_2013": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8913498,
+          47.0392113
+        ]
+      }
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+/* Leaflet Proportional Symbols Example */
 
 //lab 1 575 schoenborn - proportional symbols with  timeline, with additional feature of search. Mouse over popups, zoom to extent
 //cont. legend, scale bar, and max zoom and min zoom set
@@ -400,7 +401,7 @@ L.Control.zoomHome = L.Control.extend({
         zoomInTitle: 'Zoom in',
         zoomOutText: '-',
         zoomOutTitle: 'Zoom out',
-        zoomHomeText: '<i class="fa fa-home" style="line-height:1.65;"></i>',
+        zoomHomeText: '<img src="images/home1.png">',
         zoomHomeTitle: 'Zoom home'
     },
 
